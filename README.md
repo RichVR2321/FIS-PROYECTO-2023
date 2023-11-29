@@ -36,7 +36,7 @@
 ## Proceso
 * [Descripción del proceso](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Descripci%C3%B3n%20de%20proceso.md)
 * [Métrica de contribución](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Metrica%20de%20contribucion.md)
-* [Gráfica de contribución](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/M%C3%A9trica%20de%20contribuci%C3%B3n.md)
+
 
 ## Video: https://youtu.be/9BP_V6_Uew0?si=91tgTDAAdJF_H7S9
 
