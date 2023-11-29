@@ -1,0 +1,3 @@
+# Process description
+### Process:
+To carry out this work, there were significant changes in the way of working on the project, on this occasion more sprints were implemented, both in person and online, with the purpose of being able to provide feedback on the parts assigned to each of them; As already mentioned, the activities were assigned individually and a certain deadline was given by which all team members would have to have their part ready, so that later in the sprints, whether virtual or in-person, they would be given a feedback between all team members. This has brought positive results to the project, since by giving each other feedback, it helps us improve certain corrections that we have to make with our assigned parts.
