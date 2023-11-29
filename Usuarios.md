@@ -1,4 +1,5 @@
-# Tipos de usuarios
+#Usuarios
+### Tipos de usuarios
 ### Usuarios primarios: 
 Nuestros usuarios primarios son los estudiantes universitarios, ya que ellos serán los que usarán la aplicación frecuentemente con la intención de vender productos y obtener sustentante económico, o en su defecto, comprarán materiales como alimentos en sus jornadas académicas, libros para sus clases, o algún otro articulo
 Usuarios secundarios: Los usuarios secundarios serán las personas fuera de la facultad de ciencias exactas de la UADY, personas que usen la aplicación para obtener artículos hechos por los emprendedores universitarios
