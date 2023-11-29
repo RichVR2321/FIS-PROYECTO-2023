@@ -9,7 +9,8 @@
 **Product Owner:** María Martínez 
 
 
-**Scrum Master :** Juan Che
+<span style="color: #00bcd4;">**Scrum Master :** </span>
+Juan Che
 
 **Equipo de Desarollo:** 
 
