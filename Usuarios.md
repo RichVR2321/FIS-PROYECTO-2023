@@ -1,4 +1,4 @@
-#Usuarios
+# Usuarios
 ### Tipos de usuarios
 ### Usuarios primarios: 
 Nuestros usuarios primarios son los estudiantes universitarios, ya que ellos serán los que usarán la aplicación frecuentemente con la intención de vender productos y obtener sustentante económico, o en su defecto, comprarán materiales como alimentos en sus jornadas académicas, libros para sus clases, o algún otro articulo
