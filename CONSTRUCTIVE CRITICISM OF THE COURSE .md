@@ -1,6 +1,6 @@
-#### CONSTRUCTIVE CRITICISM OF THE COURSE 
+### CONSTRUCTIVE CRITICISM OF THE COURSE 
 
-##### *A critique (arguments) is made to the activities that can be improved, changed or eliminated.*
+#### *A critique (arguments) is made to the activities that can be improved, changed or eliminated.*
 
 **Time of evaluation**
 
@@ -14,7 +14,7 @@ It would have been a great help if weekly updates had been implemented from the 
 
 We consider that taking the classes in both groups together or separately, is something that does not influence the delivery of the topics seen in the plenary sessions; and for the activities that we propose later in this text, the fact that we are separated by the groups already established would speed up the time and the implementation of these activities.
 
-##### *Alternative (specific) activities are proposed that could enhance the promotion of the course competencies.*
+#### *Alternative (specific) activities are proposed that could enhance the promotion of the course competencies.*
 
 **Practical examples that have to do with the topics seen.**
 
