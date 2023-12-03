@@ -21,3 +21,9 @@ Para una aplicación que basa su funcionamiento en la interacción de usuarios, 
  En general, el modelo de Boehm, aunque útil, no se adapta completamente a las necesidades de revisión diaria, constante y fácil del proyecto, al mismo tiempo que no considera aspectos como la seguridad o la interoperabilidad 
 
 --------------
+
+
+## Fuentes 
+* [Semejanzas y Diferencias entre los Modelos de Calidad de Software McCall y Boehm](https://www.studocu.com/latam/document/universidad-nacional-autonoma-de-nicaragua-managua/ingenieria-del-software/ensayo/5406623)
+*  [Cuadro comparativo de los modelos de calidad](https://profelozano.files.wordpress.com/2015/10/eduard_lozano_cuadrocomparativo_actividad2_2.pdf)
+*  [Modelos de evaluación de calidad de McCal y Boehm](https://sites.google.com/view/arredondo-idarraga-evalred/modelo-de-calidad-de-mccall-y-boehm)
