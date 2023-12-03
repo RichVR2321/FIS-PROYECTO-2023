@@ -18,5 +18,5 @@ Tabla generada en formato Excel:
   
 Enlace de nuestro diagrama en la herramienta en linea [GanttPRO](https://ganttpro.com/es/).
 
-- [**Diagrama**](https://app.ganttpro.com/#/project/1701539112704/export)
+- [**Diagrama**](https://app.ganttpro.com/#/project/1701539112704/gantt)
 
