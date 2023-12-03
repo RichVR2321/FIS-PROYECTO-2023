@@ -136,8 +136,7 @@
   
            - Costo Estimado: $2,700 MXN
   
-   **1.4.2 Creación de Wireframes Interactivos**
-  
+   **1.4.2 Creación de Wireframes**  
            - Duración General:  15 hrs
 
           - Duración Final:  90 hrs
