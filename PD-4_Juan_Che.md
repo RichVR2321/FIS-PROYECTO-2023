@@ -1,5 +1,5 @@
 # Diagrama de Gantt
-***Instrucciones:*** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)* 
+***Instrucciones:*** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad).* 
 
 El siguiente diagrama está basado en los siguientes documentos:
 - [**Gestión del proceso**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Segunda_entrega/Gesti%C3%B3n%20de%20proceso.md)
@@ -16,7 +16,7 @@ Diagrama de Gantt en formato PDF:
 Tabla generada en formato Excel:
 - [**Excel**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/U-sales.%20Sprint%202.xlsx)
   
-Enlace de nuestro diagrama en la herramienta en linea [GanttPRO](https://ganttpro.com/es/).
+Enlace de nuestro diagrama en la herramienta en linea [GanttPRO](https://ganttpro.com/es/):
 
-- [**Diagrama**](https://app.ganttpro.com/#/project/1701539112704/export)
+- [**Diagrama**](https://app.ganttpro.com/#/project/1701539112704/gantt)
 
