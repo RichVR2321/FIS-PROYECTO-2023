@@ -8,21 +8,25 @@
 
 *Hora:* $112.5 MXN 
 
- - Duración Total del Sprint:  339 hrs
+ - Horas Pagadas :  339 hrs
+
+- Horas Totales: 78 hrs
      
 - Costo Total Estimado:  $ 38,137.5 MXN
   
   **1.1 Mejora de Requerimientos**
   
-  *Duración :  64 horas*
+  *Horas Pagadas :  64 horas*
+
+  *Duración: 16 horas* 
   
   *Costo: $7,200 MXN*
 
   **1.1.1 Análisis de Requerimientos Actuales**
 
-          - Duración General: 4 hrs
+          - Duración : 4 hrs
 
-          - Duración Final: 24 hrs
+          - Horas pagadas: 24 hrs
 
           - Personal:  6
 
@@ -30,9 +34,9 @@
       
   **1.1.2 Análisis del usuario**
   
-           - Duración General :  4 hrs
+           - Duración  :  4 hrs
 
-           - Duración Final: 24 hrs 
+           - Horas pagadas : 24 hrs 
 
            - Personal:  6        
 
@@ -40,9 +44,9 @@
   
   **1.1.3 Documentación de Requerimientos Mejorados**
   
-            - Duración General: 8 hrs
+            - Duración: 8 hrs
 
-            - Duración Final: 16 hrs
+            - Horas pagadas: 16 hrs
            
             - Personal: 2
 
@@ -50,15 +54,17 @@
            
    **1.2 Casos de Uso y Historias de Usuario**
   
-  *Duración:  59 hrs*
+  *Horas pagadas:  59 hrs*
+
+  *Duración: 19 horas *
   
   *Costo Estimado: $ 6,637.5 MXN*
   
   **1.2.1 Análisis e iniciación de casos de uso**
   
-            - Duración General :  4 hrs
+            - Duración :  4 hrs
 
-            - Duración Final: 24 hrs
+            - Horas pagadas: 24 hrs
 
             - Personal:  6
   
@@ -66,9 +72,9 @@
   
   **1.2.2 Desarrollo de Historias de Usuario**
   
-           - Duración General : 5  hrs
+           - Duración  : 5  hrs
     
-           - Duración Final: 5 hrs
+           - Horas pagadas : 5 hrs
   
            - Personal: 1
   
@@ -76,9 +82,9 @@
   
   **1.2.3 Documentación de Casos de uso**
   
-           - Duración General: 10 hrs
+           - Duración : 10 hrs
    
-           - Duración Final: 30 hrs
+           - Horas pagadas : 30 hrs
   
           - Personal:  3
   
@@ -86,15 +92,17 @@
            
    **1.3 Diagramas de Casos de Uso**
   
-   *- Duración: 90 hrs*
+   *- Horas pagadas : 90 hrs*
+
+  *Duración: 20 horas *
   
   *- Costo Estimado: $ 10,125 MXN*
   
   **1.3.1 Identificación de factores y análisis de casos de uso**
   
-           - Duración General :  6 hrs
+           - Duración  :  6 hrs
 
-           - Duración Final: 36 hrs
+           - Horas pagadas : 36 hrs
 
             - Personal: 6 
 
@@ -102,9 +110,9 @@
       
   **1.3.2 Creación de Diagramas de Casos de Uso**
   
-           - Duración General:  10 hrs
+           - Duración:  10 hrs
 
-           - Duración Final: 30 hrs
+           - Horas pagadas : 30 hrs
   
           - Personal: 3
   
@@ -112,9 +120,9 @@
   
   **1.3.3 Revisión y Ajustes**
   
-           - Duración General:   4 hrs
+           - Duración:   4 hrs
 
-           - Duración Final: 24 hrs
+           - Horas pagadas: 24 hrs
   
            - Personal: 6
   
@@ -122,24 +130,27 @@
            
    **1.4 Creación de Wireframes**
   
-  *Duración: 126 hrs*
+  *Horas pagadas: 126 hrs*
+
+  *Duración: 23 horas * 
   
    *Costo Estimado: $ 14,175  MXN*
   
    **1.4.1 Identificación de los requerimientos más indispensables**
   
-           - Duración General:  4 hrs
+           - Duración:  4 hrs
    
-           - Duración Final: 24 hrs
+           - Horas pagadas: 24 hrs
   
            - Personal: 6
   
            - Costo Estimado: $2,700 MXN
   
-   **1.4.2 Creación de Wireframes**  
-           - Duración General:  15 hrs
+   **1.4.2 Creación de Wireframes**
+  
+           - Duración:  15 hrs
 
-          - Duración Final:  90 hrs
+          - Horas pagadas :  90 hrs
   
           - Personal: 6
   
@@ -147,9 +158,9 @@
   
    **1.4.3 Revisión y Aprobación**
   
-           - Duración General:  4 hrs
+           - Duración:  4 hrs
 
-           - Duración Final:  12 hrs
+           - Horas pagadas:  12 hrs
   
            - Personal: 3
   
