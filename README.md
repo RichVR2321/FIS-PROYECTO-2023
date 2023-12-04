@@ -6,6 +6,6 @@
 * [Diagrama de Gantt](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/Diagrama%20de%20Gantt.md) 
 * [Elección de modelo](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/Elecci%C3%B3n%20de%20modelo.md)
 * [Artefactos](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/Artefactos.md) 
-* [Artefactos](https://www.canva.com/design/DAF17DLAoUw/Q3z2Sxqxw8t-nTlIxHv9Dw/edit?utm_content=DAF17DLAoUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Organizador visual](https://www.canva.com/design/DAF17DLAoUw/Q3z2Sxqxw8t-nTlIxHv9Dw/edit?utm_content=DAF17DLAoUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
