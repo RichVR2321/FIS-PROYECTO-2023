@@ -1,25 +1,4 @@
-# FIS-PROYECTO-2023
-
-# U-SALES 
-----------
-![U (2)](https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/assets/143569827/60b6112f-249c-4672-9c29-30e5b7acc78c)
-
-## Roles Del Equipo
-
-**Product Owner:** María Martínez 
-
-
-**Scrum Master :** Juan Che
-
-**Equipo de Desarollo:** 
-
--Irad Canche
-
--Brian Manzanilla
-
--Raymundo Pech
-
--Ricardo Vargas
-
-
+# Prueba de desempeño 2 y 3: Fases de Desarrollo y Modelos de Ciclo de Vida
+* [Documentación](https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/blob/PD-2-3/Documentacion.md)
+* [Resumen](https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/blob/PD-2-3/Recurso%20visual.jpg)
 
