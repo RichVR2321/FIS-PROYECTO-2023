@@ -8,16 +8,16 @@ El siguiente diagrama está basado en los siguientes documentos:
  
 Los cuales forman parte de la documentación de la [**segunda entrega**](https://github.com/RichVR2321/FIS-PROYECTO-2023/tree/Segunda_entrega) del proyecto. Dicha  entrega coincide con el **segundo sprint**, el cual fue llevado a cabo del 19 de octubre al 6 de noviembre del 2023.
 
-![DiagramaDeGantt](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/Diagrama%20de%20Gantt/U-sales.%20Sprint%202.png)
+![DiagramaDeGantt](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-3/Diagrama%20de%20Gantt/U-sales.%20Sprint%202.png)
 
 Enlace de nuestro diagrama en la herramienta en linea [GanttPRO](https://ganttpro.com/es/):
 - [**Diagrama**](https://app.ganttpro.com/#/project/1701539112704/gantt)
 
 Tabla generada en formato Excel:
-- [**Excel**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/Diagrama%20de%20Gantt/U-sales.%20Sprint%202.xlsx)
+- [**Excel**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-3/Diagrama%20de%20Gantt/U-sales.%20Sprint%202.xlsx)
   
 Diagrama de Gantt en formato PDF:
-- [**PDF**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-4/Diagrama%20de%20Gantt/U-sales.%20Sprint%202.pdf)
+- [**PDF**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/PD-3/Diagrama%20de%20Gantt/U-sales.%20Sprint%202.pdf)
 
 
   
