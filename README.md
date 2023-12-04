@@ -24,6 +24,6 @@
 
 * [**Entrega 1:**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/README.md) 
 
-**Entrega 2:**
+
 
 * [**PD 4:**](https://github.com/RichVR2321/FIS-PROYECTO-2023/tree/PD-4)
