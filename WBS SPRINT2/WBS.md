@@ -56,7 +56,7 @@
   
   *Horas pagadas:  59 hrs*
 
-  *Duración: 19 horas *
+  *Duración: 19 horas*
   
   *Costo Estimado: $ 6,637.5 MXN*
   
