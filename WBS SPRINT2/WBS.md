@@ -94,7 +94,7 @@
   
    *- Horas pagadas : 90 hrs*
 
-  *Duración: 20 horas *
+  *Duración: 20 horas*
   
   *- Costo Estimado: $ 10,125 MXN*
   
@@ -132,7 +132,7 @@
   
   *Horas pagadas: 126 hrs*
 
-  *Duración: 23 horas * 
+  *Duración: 23 horas* 
   
    *Costo Estimado: $ 14,175  MXN*
   
