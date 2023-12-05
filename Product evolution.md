@@ -11,7 +11,7 @@ To compare the changes in the product we can base ourselves on 3 sections, estab
 
 However, in this same installment we have already made comparisons of 2 sections; Therefore, we only add the links to the documents of these comparisons:
 
-   • Requirements (Hyperlink)
+   • [Requirements](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Requirement%20evolution.md)
 
    • Design (Hyperlink)
 
@@ -22,13 +22,11 @@ In this document we present the comparison of the missing section, the Product s
 
 We present the list of documents from the Product section that we have prepared in the first, second and third delivery:
 
--------------------------------------------------- ------------------------
 | **First delivery** | **Second installment** | **Third installment** |
-|:--|--|--:|
-| (Product Description) | Project evolution | Product evolution |
-| Users/customers | | Users |
-| Value proposition | | Innovation |
--------------------------------------------------- ------------------------
+|:--|:--|:--|
+| <ul><li>[Product Description](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Decripci%C3%B3n%20de%20producto.md) | <ul><li>[Project evolution](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Segunda_entrega/Evoluci%C3%B3n%20de%20proyecto.md) | <ul><li>Product evolution |
+| <ul><li>[Users/customers](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Usuarios.md) | | <ul><li>[Users](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Users.md) |
+| <ul><li>[Value proposition](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Propuesta%20de%20valor.md) | | <ul><li>[Innovation](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Innovation.md) |
 
 We can notice that in the second installment we only made one document. The title of the document is wrong (It should be called Product Evolution), and its content deals little with the product, or its evolution. In the second installment there were changes almost exclusively in terms of requirements and design.
 
