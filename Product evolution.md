@@ -14,9 +14,8 @@ However, in this same installment we have already made comparisons of 2 sections
 
 In this document we present the comparison of the missing section, the Product section.
 
----
 
-## Documents from the Product section
+### Documents from the Product section
 
 We present the list of documents from the Product section that we have prepared in the first, second and third installment:
 
@@ -61,7 +60,7 @@ The reasons that justify the creation of the application are the student demand 
 
 ---
 
-## Changes between installments about the product
+## Changes between deliveries about the product
 
 | From the first to the second installment | From the second to the third installment |
 |:---|:---|
