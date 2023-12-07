@@ -1,6 +1,6 @@
 # Specific competencies
 
-***Specific competencies used in the project, throughout the entire semester.***
+*Specific competencies used in the project, throughout the entire semester.*
 
 In the development of the project we used methodologies, methods and tools as we acquired knowledge about them in classes.
 At the beginning, we used knowledge about analysis and definition of requirements; then we prioritize them with the voting methods and Moscow. When learning about lifecycle models, we chose the SCRUM framework as it seemed simple and suitable; Based on this election, we assigned roles to our team members and frequently held meetings to review progress. As for supply chain management tools, we use Github.
