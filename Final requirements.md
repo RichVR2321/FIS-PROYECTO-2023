@@ -26,6 +26,3 @@ The app will refresh every 5 minutes to show the most recent posts in users' fee
 
 **User preferences:**
 The application will learn from users' searches and reactions to recommend products related to the categories they most frequent.
-
-**Account protection and recovery:**
-The account information will be found in a database outside the team to be able to have backups in case the user loses their account, as well as there will be processes in case of an account theft attempt. 
