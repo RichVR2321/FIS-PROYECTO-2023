@@ -163,8 +163,7 @@
 || 1 | User accesses publishing interface  |
 || 2 | The user decides how many visual resources to upload (text, photo and/or video)  |
 || 3 |The user adds a description to the product  |
-|| 4 | The user marks it in a category  |
-|| 5 |The user sends the publication  |
+|| 4 |The user sends the publication  |
 |        **Postcondition**    |  The publication is uploaded to the platform             | 
 
  ### Use case 12: Edit profile
