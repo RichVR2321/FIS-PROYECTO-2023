@@ -11,7 +11,7 @@ Shortage of Specific Platforms: Although general e-commerce platforms exist, the
 ### Innovative features
 #### 1. Social Exchange Functions:
 Integration of social media features that allow students to connect, follow and recommend products to each other, fostering an online student community.
-### 2. Rating and Reviews System:
+#### 2. Rating and Reviews System:
 Implementation of a rating and review system for products and sellers, guaranteeing transparency and trust in transactions.
-### 3. Focus on Student Products:
+#### 3. Focus on Student Products:
 The application focuses on products relevant to university students, allowing the sales opportunity exclusively to higher-level students, with the aim of a venture that supports their academic development, and polishes business qualities.
