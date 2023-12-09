@@ -6,10 +6,10 @@ Users, in order to be authenticated, will register a new user with their full na
 When viewing a publication or comment, users will have the option to react with their favorite emotion, as well as report them if they detect any breach of rules. At the top left of the publications will be the author's name; Users can click on them to enter the seller's profile and find out their basic information. Users will be able to react and comment on a publication, as well as respond and react to comments from other users, and may even report publications or comments that they consider violate the application's rules. They will also have a search engine that allows them to search for a specific product if they wish.
 
 •	Communication:
-Users will have an instant messaging service within the application to facilitate customer-seller communication; The sending time of the last message will be displayed, but not the read receipt by any user. Users will have the option to turn on message notifications; New messages will appear pop-up on the user's cell phone.
+Users will have an instant messaging service within the application to facilitate customer-seller communication; The sending time of the last message will be displayed, but not the read receipt by any user.
 
 •	Publications:
-The user, if registered with an institutional email, will have the option to upload publications announcing their product, being able to upload text, images and videos about what they want to advertise, as well as mark it in a category depending on the product (food, stationery, entertainment, etc.).
+The user, if registered with an institutional email, will have the option to upload publications announcing their product, being able to upload text, images and videos about what they want to advertise.
 
 • User presentation:
 The user has the option to personalize their profile, adding a brief description about what they do, their faculty, schedule, among other things.
