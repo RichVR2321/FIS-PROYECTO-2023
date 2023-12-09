@@ -9,7 +9,7 @@ Student Demand: University students often face logistical and economic challenge
 Shortage of Specific Platforms: Although general e-commerce platforms exist, the lack of specific options for university students leaves a gap in the market that this project aims to fill.
 
 ### Innovative features
-### 1. Social Exchange Functions:
+#### 1. Social Exchange Functions:
 Integration of social media features that allow students to connect, follow and recommend products to each other, fostering an online student community.
 ### 2. Rating and Reviews System:
 Implementation of a rating and review system for products and sellers, guaranteeing transparency and trust in transactions.
