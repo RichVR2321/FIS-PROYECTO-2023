@@ -4,6 +4,8 @@ The creation of U-Sales allows the sale and purchase of products designed specif
 
 ### Reasons for the project
 Student Demand: University students often face logistical and economic challenges when searching for and selling products, allowing entrepreneurs to solve their monetary needs, and buyers solving their need for products.
+
+
 Shortage of Specific Platforms: Although general e-commerce platforms exist, the lack of specific options for university students leaves a gap in the market that this project aims to fill.
 
 ### Innovative features
