@@ -46,8 +46,6 @@
 | Ricardo Vargas|3|
 | Brian Manzanilla|3|
 
-| Total | 91 |
-
 
 | Responsible | Points | Percentage |
 | -------- | -------- | -------- |
@@ -58,3 +56,23 @@
 | Raymundo Pech | 18 | 19.78% |
 | Ricardo Vargas | 16 | 17.58% |
 | Total | 91 | 100% |
+
+| Member| Points|
+| -------- | -------- |
+| Irad Canche| 4|
+| Raymundo Pech|4|
+| Juan Che |4|
+| María Martínez|4|
+| Ricardo Vargas|3|
+| Brian Manzanilla|3|
+
+#### Documents in which each member was involved for its completion
+
+| Member| First delivery | Second installment | Third installment |
+| -------- | -------- | ---------- | --------- |
+| Irad Canche| [Guión]() [Video]() |
+| Raymundo Pech| [Requisitos no funcionales]() [Competencias Específicas]() [Creación de logo]() |
+| Juan Che | [Priorización de los requerimientos]() [Factibilidad de los requerimientos]() [Historias de usuario]() [Descripción del Proceso]() |
+| María Martínez| [Gestión del Proceso]() [Métrica de Contribución Individual]() [Métrica gráfica]() [Organización y documentación del proceso]() |
+| Ricardo Vargas | [Requisitos Funcionales]() [Competencias Génericas]() |
+| Brian Manzanilla| [Descripción del producto]() [Usuarios/Clientes]() [Propuesta de Valor]() |
