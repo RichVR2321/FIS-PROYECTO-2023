@@ -34,8 +34,7 @@ During these sessions, a detailed review is carried out, allowing each participa
 Users have the ability to register to provide their full name, email address, password, shipping address and phone number. In case you are already registered, you will be able to log in using your email and password.
 
  
-
-**Functional Requirement:** *User Presentation*
+ **Functional Requirement:** *User Presentation*
 
 
 ![Requisito 2](https://github.com/RichVR2321/FIS-PROYECTO-2023/assets/143520257/55406eb2-3d35-4612-8b35-5efcc94f89dd)
