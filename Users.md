@@ -4,7 +4,7 @@
 
 **Primary users:** Our primary users will be the sellers. They will be more active than other users, since they will frequently be publishing their sales, and establishing communication with their customers. Most of the content present in the application will be created by them. The sellers will be users who have been verified as students of the Autonomous University of Yucatán.
 
-**Secondary users:** The secondary users will be the clients. They are probably sporadic users of the app, who will use it only when they need to buy products on their campuses. They will not necessarily be students of the Autonomous University of Yucatán, although we hope that the majority will be.
+**Secondary users:** The secondary users will be the buyers. They are probably sporadic users of the app, who will use it only when they need to buy products on their campuses. They will not necessarily be students of the Autonomous University of Yucatán, although we hope that the majority will be.
 
 The user types depend on each other, since the relationship between a seller user and a buyer user is fundamental in the context of a market or exchange platform. This relationship is based on the mutual interdependence of both parties for the system to function effectively.
 
