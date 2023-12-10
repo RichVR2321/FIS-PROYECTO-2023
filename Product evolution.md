@@ -51,9 +51,9 @@ The potential users are mainly young university students with an age range of 18
 ### Third installment
 
 **Users:** U-Sales will have two types of users, the buyer user and the seller user, both users are our primary users.
-- Primary users: are university students.
-- Secondary users: people outside the UADY.
-
+- Primary users: The sellers, who will be verified UADY students.
+- Secondary users: The buyers, who for the most part, although not exclusively, will be UADY students.
+  
 **Innovation:** U-Sales focuses on addressing the on-campus buying and selling needs of college students; offering a digital platform that simplifies the process, encourages social interaction and provides specific features to improve the experience.
 It is innovative in that it especially allows students to connect with each other, has a ratings and reviews feature for posts and users, and only allows sales to be posted by students of the Autonomous University of Yucatán.
 The reasons that justify the creation of the application are the student demand for this type of services and the scarcity of specific platforms for the university context.
