@@ -47,6 +47,7 @@ Points are awarded depending on the time it takes to complete an activity
 | Ricardo Vargas|3|
 | Brian Manzanilla|3|
 
+#### Contribution percentages in the third installment
 
 | Member | Points | Percentage |
 | -------- | -------- | -------- |
