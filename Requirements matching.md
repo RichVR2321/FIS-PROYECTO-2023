@@ -92,3 +92,12 @@ A comment that is inappropriate may be reported as appropriate to the situation.
 
 
 All uploaded publications are separated into categories to make it easier to find them using the search bar.
+
+
+
+
+
+
+Técnicas de validación de requisitos | Marco de Desarrollo de la Junta de Andalucía. (n.d.). Www.juntadeandalucia.es. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/419 
+
+‌
