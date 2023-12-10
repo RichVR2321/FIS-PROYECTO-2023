@@ -57,8 +57,12 @@
 | Ricardo Vargas | 16 | 17.58% |
 | Total | 91 | 100% |
 
+---
 
-| Member | First delivery ***(1/4 of the proyect qualification)*** | Second installment ***(1/4 of the proyect qualification)*** | Third installment ***(1/2 of the proyect qualification)*** | Global contribution percentage |
+## Contribution percentage throughout the semester
+
+#### 
+| Member | First installment ***(1/4 of the proyect qualification)*** | Second installment ***(1/4 of the proyect qualification)*** | Third installment ***(1/2 of the proyect qualification)*** | Global contribution percentage |
 | -------- | -------- | -------- | -------- | -------- |
 | Irad Canche | 19.04% | 14.13% |15.38% | **15.99%** |
 | Juan Che| 16.6% | 15.21% | 19.78% | **17.84%** |
