@@ -1,7 +1,8 @@
 # Individual contribution metric
 
-#### Level of importance or difficulty -Points are awarded depending on the time it takes to complete an activity-
-------
+#### Level of importance or difficulty 
+Points are awarded depending on the time it takes to complete an activity
+
 1. Very low
 2. Low
 3. Medium
