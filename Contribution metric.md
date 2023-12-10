@@ -61,6 +61,14 @@
 
 ## Contribution percentage throughout the semester
 
+The contribution percentages in each delivery, as well as the lists of individual contributions, were obtained from the following documents: 
+
+​- [**Métrica de contribución**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Metrica%20de%20contribucion.md) **of the first installment**
+
+- [**Métrica de contribución**](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Segunda_entrega/M%C3%A9tirca%20de%20contribuci%C3%B3n.md) **of the second installment**
+  
+- [**Individual contribution metric**]()
+
 #### 
 | Member | First installment ***(1/4 of the proyect qualification)*** | Second installment ***(1/4 of the proyect qualification)*** | Third installment ***(1/2 of the proyect qualification)*** | Global contribution percentage |
 | -------- | -------- | -------- | -------- | -------- |
