@@ -47,7 +47,7 @@
 | Brian Manzanilla|3|
 
 
-| Responsible | Points | Percentage |
+| Member | Points | Percentage |
 | -------- | -------- | -------- |
 | Irad Canche | 14 | 15.38% |
 | Juan Che| 18 | 19.78% |
@@ -57,14 +57,17 @@
 | Ricardo Vargas | 16 | 17.58% |
 | Total | 91 | 100% |
 
-| Member| Points|
-| -------- | -------- |
-| Irad Canche| 4|
-| Raymundo Pech|4|
-| Juan Che |4|
-| María Martínez|4|
-| Ricardo Vargas|3|
-| Brian Manzanilla|3|
+
+| Member | First delivery ***(1/4 of the proyect qualification)*** | Second installment ***(1/4 of the proyect qualification)*** | Third installment ***(1/2 of the proyect qualification)*** | Global contribution percentage |
+| -------- | -------- | -------- | -------- | -------- |
+| Irad Canche | 19.04% | 14.13% |15.38% | **15.99%** |
+| Juan Che| 16.6% | 15.21% | 19.78% | **17.84%** |
+| Brian Manzanilla | 19.04% | 16.30% | 16.48% | **17.08%**|
+| María Martínez | 16.6% | 	25% | 10.98% | **15.89%**|
+| Raymundo Pech | 16.6% | 16.30% | 19.78% | **18.12%**|
+| Ricardo Vargas | 12.12% |	13.04% | 17.58% | **15.08%**|
+| Total | 100% | 100% | 100% | **100%** |
+
 
 #### Documents in which each member was involved for its completion
 
