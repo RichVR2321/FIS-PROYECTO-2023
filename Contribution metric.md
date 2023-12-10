@@ -70,9 +70,9 @@
 
 | Member| First delivery | Second installment | Third installment |
 | -------- | -------- | ---------- | --------- |
-| Irad Canche| [Guión]() [Video]() |
-| Raymundo Pech| [Requisitos no funcionales]() [Competencias Específicas]() [Creación de logo]() |
-| Juan Che | [Priorización de los requerimientos]() [Factibilidad de los requerimientos]() [Historias de usuario]() [Descripción del Proceso]() |
-| María Martínez| [Gestión del Proceso]() [Métrica de Contribución Individual]() [Métrica gráfica]() [Organización y documentación del proceso]() |
-| Ricardo Vargas | [Requisitos Funcionales]() [Competencias Génericas]() |
-| Brian Manzanilla| [Descripción del producto]() [Usuarios/Clientes]() [Propuesta de Valor]() |
+| Irad Canche| <ul><li>[Guión](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Guion.md) </li><li>[Video](https://youtu.be/9BP_V6_Uew0?si=91tgTDAAdJF_H7S9) | |
+| Raymundo Pech| <ul><li>[Requisitos no funcionales](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Requerimientos%20no%20funcionales.md) </li><li>[Competencias Específicas](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Competencias%20espec%C3%ADficas.md) </li><li>[Creación de logo](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Logo.md) | |
+| Juan Che | <ul><li>[Priorización de los requerimientos](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Priorizaci%C3%B3n%20de%20requerimientos.md) </li><li>[Factibilidad de los requerimientos](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Factibilidad.md) </li><li>[Historias de usuario](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Historias%20de%20usuario.md) </li><li>[Descripción del Proceso](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Descripci%C3%B3n%20de%20proceso.md) | |
+| María Martínez| <ul><li>[Gestión del Proceso (Bitácoras)](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Gesti%C3%B3n%20de%20proceso.md) </li><li>[Métrica de Contribución Individual](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Metrica%20de%20contribucion.md) </li><li>[Métrica gráfica](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/M%C3%A9trica%20de%20contribuci%C3%B3n.md) </li><li>[Organización y documentación del proceso]() | |
+| Ricardo Vargas | <ul><li>[Requerimientos funcionales](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Requisitos%20funcionales.md) </li><li>[Competencias Génericas](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Competencias%20gen%C3%A9ricas.md) | |
+| Brian Manzanilla| <ul><li>[Descripción del producto](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Decripci%C3%B3n%20de%20producto.md) </li><li>[Usuarios/Clientes](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Usuarios.md) </li><li>[Propuesta de Valor](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Primera_entrega/Propuesta%20de%20valor.md) | |
