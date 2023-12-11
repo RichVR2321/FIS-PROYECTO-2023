@@ -45,7 +45,7 @@
 ## Process
 * [Process description](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/2ab6d6109d288a44427456e3490a21bd50a78b8f/Process%20description.md)
 * [Process management](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/2ab6d6109d288a44427456e3490a21bd50a78b8f/meeting_log.md)
-* [Contribution Metric](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.md)
+* [Contribution Metric](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Contribution%20Metric.md)
 * [Scrum artefacts](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Scrum%20artifacts.md)
 
 ## Preview presentation
