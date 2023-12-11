@@ -10,7 +10,7 @@ To compare the changes in the product we can base ourselves on 3 sections, estab
 However, in this same installment we have already made comparisons of 2 sections; Therefore, we only add the links to the documents of these comparisons:
 
 - [Requirements](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Requirement%20evolution.md)
-- Design (Hyperlink)
+- [Design](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/Tercera_Entrega/Evolution_of_the_interfaces.md)
 
 In this document we present the comparison of the missing section, the Product section.
 
