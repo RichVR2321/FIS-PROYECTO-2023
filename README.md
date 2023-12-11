@@ -23,7 +23,7 @@ Juan Che
 
 -Ricardo Vargas
 
-**CONTENIDO: **
+**CONTENIDO:**
 
 * [FIGMA:](https://www.figma.com/file/WB5yYtfSMIwTgGAAeYxW1Y/Untitled?type=design&node-id=3-11&mode=design&t=mv0EIoqOfv5yaDga-0)
 
