@@ -25,8 +25,10 @@ Juan Che
 
 **CONTENT:**
 
-* [FIGMA:](https://www.figma.com/file/WB5yYtfSMIwTgGAAeYxW1Y/Untitled?type=design&node-id=3-11&mode=design&t=mv0EIoqOfv5yaDga-0)
+* [FIGMA](https://www.figma.com/file/WB5yYtfSMIwTgGAAeYxW1Y/Untitled?type=design&node-id=3-11&mode=design&t=mv0EIoqOfv5yaDga-0)
 
-* [Video:](https://www.youtube.com/watch?v=mD-rl9SxBwU)
+* [Video](https://www.youtube.com/watch?v=mD-rl9SxBwU)
+
+* 
 
 
