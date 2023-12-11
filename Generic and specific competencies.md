@@ -15,7 +15,7 @@ At the beginning, we used knowledge about analysis and definition of requirement
 
 In the next installment, we refine the requirements. To do this, we use artifacts such as user stories and use cases. As for the design phase, we did architectural designs and interface sketches in a tool called Miro. These designs were verified and validated.
 
-In the final delivery, we apply skills in carrying out informal tests, for which we use the Maze tool. Based on the results, we reviewed the designs and perfected them, obtaining the final designs. It was here that we applied what we learned in class to make the collaboration metric, using a method of measuring tasks that uses the number of hours to carry them out as a reference, and taking into account the comments of the team members to reach agreements. 
+In the final installment, We did the final design of the wireframes in the figma tool, for which design guides were used. We linked the screens to simulate how they would be used. we apply skills in carrying out informal tests, for which we use the Maze tool. Based on the results, we reviewed the designs and perfected them, obtaining the final designs. It was here that we applied what we learned in class to make the collaboration metric, using a method of measuring tasks that uses the number of hours to carry them out as a reference, and taking into account the comments of the team members to reach agreements. 
 
 Throughout the project, we increasingly focused on the analysis of the competencies of each team member, to assign tasks according to their best abilities. Regarding task reassignment, sometimes we assign multiple people to some tasks that were initially assigned to only one.
 
