@@ -31,7 +31,6 @@
 ## Diseño
 * [Bosquejo de interfaces](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/0597934c25104c9a07e9e086c4b25a0a8520709c/Bosquejo%20de%20interfaces.md)
 * [Correspondecia de requisitos](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/0597934c25104c9a07e9e086c4b25a0a8520709c/Correspondencia%20de%20requisitos.md)
-* [Validación de interfaces]
 ## Proceso
 * [Descripción del proceso](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/0597934c25104c9a07e9e086c4b25a0a8520709c/Descripci%C3%B3n%20del%20proceso.md)
 * [Gestión del proceso](https://github.com/RichVR2321/FIS-PROYECTO-2023/blob/0597934c25104c9a07e9e086c4b25a0a8520709c/Gesti%C3%B3n%20de%20proceso.md)
